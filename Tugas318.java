@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tugas3NoAbsen {
+public class Tugas318 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Masukkan jumlah toko: ");
